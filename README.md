@@ -1,5 +1,5 @@
 
-![Angular (Typing test)](./banner.png)
+![Angular (Typing test)](./banner1.png)
 
 ### Steps to run
 
